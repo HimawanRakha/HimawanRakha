@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Himawan Rakha Bhadea and I'm a Undergraduate Student from Institut Technology Sepuluh Nopember</h2>
+<h2 align="left">Hi 👋! My name is Himawan Rakha Bhadra and I'm a Undergraduate Student from Institut Technology Sepuluh Nopember</h2>
 
 ###
 
