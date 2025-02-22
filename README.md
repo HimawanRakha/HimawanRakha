@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 <h2 align="left">Hi 👋! My name is Himawan Rakha Bhadra and I'm a Undergraduate Student from Institut Technology Sepuluh Nopember</h2>
 
 ###
